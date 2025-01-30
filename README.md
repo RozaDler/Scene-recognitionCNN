@@ -43,7 +43,7 @@ Performance metrics on validation and test sets:
 Clone this repository
 
 ```bash
-git clone https://github.com/reddy-s/scene-recognition.git
+git clone https://github.com/RozaDler/scene-recognition.git
 ```
 
 Create conda virtual environment
