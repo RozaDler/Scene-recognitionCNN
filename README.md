@@ -28,7 +28,17 @@ Performance metrics on validation and test sets:
 
 ### Model Classification Results
 
-<img src="./docs/results.png" alt="Model Classification Results" width="500">
+<img src="./docs/1.png" alt="Model Classification Results" width="200">
+<img src="./docs/2.png" alt="Model Classification Results" width="200">
+<img src="./docs/3.png" alt="Model Classification Results" width="200">
+<img src="./docs/4.png" alt="Model Classification Results" width="200">
+<img src="./docs/5.png" alt="Model Classification Results" width="200">
+<img src="./docs/6.png" alt="Model Classification Results" width="200">
+<img src="./docs/7.png" alt="Model Classification Results" width="200">
+<img src="./docs/8.png" alt="Model Classification Results" width="200">
+<img src="./docs/9.png" alt="Model Classification Results" width="200">
+<img src="./docs/10.png" alt="Model Classification Results" width="200">
+<img src="./docs/11.png" alt="Model Classification Results" width="200">
 
 ### Loss Curve
 
