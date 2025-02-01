@@ -46,8 +46,8 @@ Performance metrics on validation and test sets:
 
 <table>
   <tr>
-    <td><img src="./docs/loss_curve.png" alt="Loss Curve" width="300"></td>
-    <td><img src="./docs/val_acc.png" alt="Validation Accuracy" width="300"></td>
+    <td><img src="./docs/loss_curve.png" alt="Loss Curve" width="400"></td>
+    <td><img src="./docs/val_acc.png" alt="Validation Accuracy" width="400"></td>
   </tr>
   <tr>
     <td align="center"><strong>Loss Curve</strong></td>
