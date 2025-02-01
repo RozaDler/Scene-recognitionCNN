@@ -31,7 +31,6 @@ Performance metrics on validation and test sets:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./docs/1.png" alt="Model Classification Results" width="150">
-  <img src="./docs/2.png" alt="Model Classification Results" width="150">
   <img src="./docs/3.png" alt="Model Classification Results" width="150">
   <img src="./docs/4.png" alt="Model Classification Results" width="150">
   <img src="./docs/5.png" alt="Model Classification Results" width="150">
@@ -43,13 +42,19 @@ Performance metrics on validation and test sets:
   <img src="./docs/11.png" alt="Model Classification Results" width="150">
 </div>
 
-### Loss Curve
+### Loss Curve & Validation Accuracy
 
-<img src="./docs/loss_curve.png" alt="Loss Curve" width="500">
-
-### Validation Accuracy
-
-<img src="./docs/val_acc.png" alt="Validation Accuracy" width="500">
+<div style="display: flex; gap: 20px;">
+  <div>
+    <img src="./docs/loss_curve.png" alt="Loss Curve" width="400">
+    <p align="center"><strong>Loss Curve</strong></p>
+  </div>
+  
+  <div>
+    <img src="./docs/val_acc.png" alt="Validation Accuracy" width="400">
+    <p align="center"><strong>Validation Accuracy</strong></p>
+  </div>
+</div>
 
 ### Confusion Matrix on Validation set
 
