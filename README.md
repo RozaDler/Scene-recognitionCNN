@@ -26,7 +26,7 @@ Performance metrics on validation and test sets:
 | Validation | 59.49%         | 86.59%         | 0.60            | 0.59         | 0.60     | 0.86            | 0.86         | 0.86     |
 | Test       | 71.56%         | 94.41%         | 0.73            | 0.71         | 0.70     | 0.94            | 0.94         | 0.94     |
 
-### Model Classification Results
+### Examples of Model Classification Results
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -44,18 +44,16 @@ Performance metrics on validation and test sets:
 
 ### Loss Curve & Validation Accuracy
 
-<div style="display: flex; gap: 20px;">
-  <div>
-    <img src="./docs/loss_curve.png" alt="Loss Curve" width="400">
-    <p align="center"><strong>Loss Curve</strong></p>
-  </div>
-  
-  <div>
-    <img src="./docs/val_acc.png" alt="Validation Accuracy" width="400">
-    <p align="center"><strong>Validation Accuracy</strong></p>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td><img src="./docs/loss_curve.png" alt="Loss Curve" width="300"></td>
+    <td><img src="./docs/val_acc.png" alt="Validation Accuracy" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Loss Curve</strong></td>
+    <td align="center"><strong>Validation Accuracy</strong></td>
+  </tr>
+</table>
 ### Confusion Matrix on Validation set
 
 <img src="./docs/confusion_matrix.png" alt="Top-5 Confusion Matrix on Test set" width="500">
