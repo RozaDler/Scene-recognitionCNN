@@ -2,6 +2,8 @@
 
 The aim of this project was to use CNNs and Transfer Learning for scene recognition. A resnet34-based network was trained to classify 40 different scenes.
 
+## The Scene Recognition CNN Architecture
+<img src="./docs/scene-rec-arch.png" alt="Model Architecture" width="150">
 ## Hyperparameters exploration
 
 - Batch size
